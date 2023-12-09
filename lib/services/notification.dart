@@ -10,7 +10,6 @@ class NotificationManager {
 
   initializeNotification() async {
     //tz.initializeTimeZones();
-   // this is for latest iOS settings
     final DarwinInitializationSettings initializationSettingsIOS =
     DarwinInitializationSettings(
         requestSoundPermission: false,
@@ -58,7 +57,6 @@ void onDidReceiveNotificationResponse(NotificationResponse notificationResponse)
 
     Future onDidReceiveLocalNotification(
       int id, String? title, String? body, String? payload) async {
-    // display a dialog with the notification details, tap ok to go to another page
     /*showDialog(
       //context: context,
       builder: (BuildContext context) => CupertinoAlertDialog(
