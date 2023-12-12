@@ -16,8 +16,13 @@ dependencies:
   get_storage:
   get:
   flutter_local_notifications: ^10.0.0
-  flutter_timezone:
+  firebase_core: ^2.24.2
+  # flutter_native_timezone: ^1.1.0
   table_calendar: ^3.0.0
+  cloud_firestore: ^4.13.5
+  firebase_auth:
+  # shared_preferences: ^2.0.9
+  # device_calendar: ^4.0.0
 
   # url_launcher: ^6.0.6
   # # device_calendar: ^4.3.1
