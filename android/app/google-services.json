@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898688418990",
+    "project_id": "calendar-app-asiet",
+    "storage_bucket": "calendar-app-asiet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898688418990:android:6d9c7cd0ccfa264c54593f",
+        "android_client_info": {
+          "package_name": "com.example.calendar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898688418990-lr9ud4hvqupf490thlpe4sciemdsbhfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVWBYY9jRmE53KDIPyJ24eT0BLdoXF2gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898688418990-lr9ud4hvqupf490thlpe4sciemdsbhfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
